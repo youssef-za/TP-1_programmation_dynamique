@@ -1,0 +1,2 @@
+tests.projets.agiles.dao.DaoImpl
+tests.projets.agiles.metier.MetierImpl
